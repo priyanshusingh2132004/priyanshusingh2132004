@@ -71,7 +71,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshusingh2132004&show_icons=true&locale=en&layout=compact" alt="priyanshusingh2132004" height="500px" width="490px"  /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh2132004&show_icons=true&locale=en" alt="priyanshusingh2132004" height="500px" width="490px"/></p>
+<hr>
+<h3 align="center">States:</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshusingh2132004&show_icons=true&theme=radical" width="400px" height="400px">  &nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh2132004&layout=compact&theme=radical" width="490px" height="400px">
