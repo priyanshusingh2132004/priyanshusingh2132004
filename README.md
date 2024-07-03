@@ -72,6 +72,6 @@
   </a>
 </p>
 <hr>
-<h3 align="center">States:</h3>
+<h3 align="center">Statistics</h3>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshusingh2132004&show_icons=true&theme=radical" width="400px" height="400px">  &nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh2132004&layout=compact&theme=radical" width="490px" height="400px">
