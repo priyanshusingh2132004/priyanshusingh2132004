@@ -49,6 +49,6 @@
 
 <h3 align="center">Statistics</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshusingh2132004&show_icons=true&theme=radical&layout=compact" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshusingh2132004&show_icons=true&theme=radical&layout=compact" height="165"> &nbsp;  &nbsp; 
 <img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh2132004&show_icons=true&theme=radical" height="165">
 </p>
