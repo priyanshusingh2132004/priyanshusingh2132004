@@ -3,7 +3,10 @@
 
 - 🌱 I'm currently learning **MERN Stack**
 - 📫 How to reach me: **priyanshusingh2132004@gmail.com**
+- 🔭 I’m currently working on [Fuel and mechanic delivery Full Stack Website Using MERNxStripe](https://github.com/priyanshusingh2132004/Fuel-Fix-Fuel-del-website-using-MERN-And-Stripe.git)
+- 🤝 Doing internship on [CodSoft](https://github.com/priyanshusingh2132004/CODSOFT.git)
 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-singh" height="30" width="40" /></a>
