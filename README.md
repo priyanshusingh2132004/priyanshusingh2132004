@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">A 4th-year BE student in Computer Science and Engineering, passionate about web development and eager to create dynamic, user-friendly web applications</h3>
 
-- 🌱 I'm currently learning **MERN Stack**
+- 🌱 I'm currently learning **Data Analystics**
 - 📫 How to reach me: **priyanshusingh2132004@gmail.com**
-- 🔭 I’m currently working on [Fuel and mechanic delivery Full Stack Website Using MERNxStripe](https://github.com/priyanshusingh2132004/Fuel-Fix-Fuel-del-website-using-MERN-And-Stripe.git)
-- 🤝 Doing internship on [CodSoft](https://github.com/priyanshusingh2132004/CODSOFT.git)
+- 🤝 Done internship on [CodSoft](https://github.com/priyanshusingh2132004/CODSOFT.git)
 
  
 <h3 align="left">Connect with me:</h3>
